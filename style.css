@@ -1,0 +1,28 @@
+.slider {
+    max-width: 1000px;
+    margin: auto;
+    padding: 100px 0;
+}
+
+.box {
+    max-width: 1000px;
+    margin: 50px auto 50px;
+    padding: 150px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+}
+
+.box--red {
+    background-color: red;
+}
+
+.box--green {
+    background-color: green;
+}
+
+.box--blue {
+    background-color: blue;
+}
+
